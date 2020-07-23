@@ -1,6 +1,8 @@
 # Spring Batch Examples - Custom Writer To Log
 
-Project with examples using Spring Batch. In this project there are configurations to read simple data from memory and write to log using a custom component that implements ItemWriter.
+Project with examples using Spring Batch.
+
+In this project there are configurations to read simple data from memory and write to log using a custom component that implements ItemWriter.
 
 ## Requirements
 You must set a database used for tests in our example we are using Postgresql.
